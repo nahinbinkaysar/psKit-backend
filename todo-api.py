@@ -18,7 +18,7 @@ app.add_middleware(
 )
 
 
-# Database setup
+# Database setup hehe
 DATABASE_URL = "sqlite:///./todo.db"
 CUSTOMER_DATABASE_URL = "sqlite:///./customer.db"
 ADDRESS_DATABASE_URL = "sqlite:///./address.db"
